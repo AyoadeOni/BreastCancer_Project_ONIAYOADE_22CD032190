@@ -2,5 +2,5 @@ Name: Ayoade Oni
 Matric Number: 22CD032190
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Joblib
-Live URL: https://your-deployed-link
-GitHub Repository: https://github.com/yourusername/BreastCancer_Project
+Live URL: https://breastcancer-project-oniayoade.onrender.com
+GitHub Repository: https://github.com/AyoadeOni/BreastCancer_Project_ONIAYOADE_22CD032190
