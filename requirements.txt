@@ -4,7 +4,6 @@ pandas
 numpy
 scikit-learn
 joblib
-gunicorn
 
 =======
 flask
@@ -13,3 +12,4 @@ numpy
 scikit-learn
 joblib
 >>>>>>> 1996e92 (Initial commit: Upload House Price Prediction project)
+
